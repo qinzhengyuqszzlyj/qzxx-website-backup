@@ -1,0 +1,5 @@
+"use strict";
+
+//document.writeln("\n<style>\n.rxsy_float{ position:fixed; top:38%; left:5px; animation:rxsytx 4s ease-out; z-index:100;    display:block;}\n@keyframes rxsytx{\n  0%{ transform:scale(1.2) translate(-100px,-200px)}\n  50%{ transform:scale(1.0)translate(-10px,20px)}\n  100%{ transform:scale(1.0)translate(0px,0px)}\n}\n.close{ position:absolute; right:0; width:11px; height:11px; cursor:pointer; z-index:200;}\n</style>\n<div class=\"rxsy_float\" id=\"rxsy_float\">\n<div class=\"close\" onclick=\"javascript:document.getElementById('rxsy_float').style.display='none';\">\n<img src=\"/wcm.files/images/201804241015016.gif\" width=\"11\" height=\"11\"></div>\n          <a ><img src=\"/wcm.files/images/wxer20221207.png\" width=\"195\"></a>\n     </div>\n\n ");
+
+//document.writeln("\n<style>html,body{-webkit-filter: grayscale(100%); /* webkit */-moz-filter: grayscale(100%); /*firefox*/-ms-filter: grayscale(100%); /*ie9*/-o-filter: grayscale(100%); /*opera*/filter: grayscale(100%);filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); filter:gray; /*ie9- */}</style>");
